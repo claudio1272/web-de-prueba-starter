@@ -9,9 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Aquí va el subtítulo
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Un sitio web de Netlify Create es un repositorio Git del que eres
+      propietario. Cada confirmación de código se refleja instantáneamente en el
+      editor visual y, dado que cada edición visual es una confirmación Git, los
+      flujos de trabajo y la colaboración Git funcionan perfectamente.
     actions:
       - label: Get started
         altText: ''
