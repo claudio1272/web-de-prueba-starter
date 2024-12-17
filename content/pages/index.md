@@ -7,7 +7,7 @@ sections:
       text: Desbloquea a tu equipo y aumenta tu tiempo de producción
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Aquí va el subtítulo
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
