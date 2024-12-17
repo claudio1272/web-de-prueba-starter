@@ -1,5 +1,7 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: >-
+  Las diez lecciones más importantes que hemos aprendido desde nuestro
+  lanzamiento inicial
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
