@@ -150,7 +150,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Esta es una insignia
       color: text-primary
       styles:
         self:
